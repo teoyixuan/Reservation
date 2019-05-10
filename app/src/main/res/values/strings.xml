@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="textname">Name :</string>
+    <string name="editTextName" />
+    <string name="textMobile">Mobile Number :</string>
+    <string name="editTextMobile">Enter mobile number...</string>
+    <string name="textViewPax">Pax :</string>
+    <string name="editTextPax">Enter pax...</string>
+    <string name="cb">Smoking Area</string>
+    <string name="btnReservation">Reservation</string>
+    <string name="btnReset">Reset</string>
+</resources>
